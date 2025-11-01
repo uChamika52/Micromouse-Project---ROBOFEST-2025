@@ -22,8 +22,8 @@ The Micromouse was built around the **ESP32 Wroom 32** platform, integrating **V
 
 ## Project Structure
 
-/Docs → Pinouts, wiring diagrams, wall layout references
-/Code → All main and test Arduino sketches
+- Docs → Pinouts, wiring diagrams, wall layout references
+- Code → All main and test Arduino sketches
 
 ---
 
@@ -48,8 +48,8 @@ The Micromouse was built around the **ESP32 Wroom 32** platform, integrating **V
 
 This project was developed by a team of Electronic and Telecommunication Engineering undergraduates from the University of Sri Jayewardenepura for ROBOFEST 2025.
 
-Ushan Karunarathna
-Sasindu Perera 
-Achinthya Bimsara
-Madhuka Dias
-Laksith Kahatapitiya
+- Ushan Karunarathna
+- Sasindu Perera 
+- Achinthya Bimsara
+- Madhuka Dias
+- Laksith Kahatapitiya
