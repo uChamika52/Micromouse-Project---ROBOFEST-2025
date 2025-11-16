@@ -7,7 +7,8 @@ Autonomous maze-solving Micromouse robot developed for SLIIT ROBOFEST 2025 (Univ
 1. [Introduction](#introduction)
 2. [Project Structure](#project-structure)
 3. [Hardware & Software Requirements](#hardware--software-requirements)
-4. [Meet the Team](#meet-the-team)
+4. [PCB Design](#pcb-design)
+5. [Meet the Team](#meet-the-team)
 
 ---
 
@@ -41,6 +42,11 @@ The Micromouse was built around the **ESP32 Wroom 32** platform, integrating **V
 - Arduino IDE 
 - Required Libraries:
   - `Adafruit_VL53L0X.h`
+
+---
+## PCB Design
+
+This PCB was designed using KiCad software as a two-layer board (Front Copper and Back Copper). The MX1616 motor driver was created as a custom symbol and custom footprint to ensure accurate integration into the design. All relevant 3D models were assigned and a complete 3D visualization of the board was generated. This repository includes the figures of schematic, PCB layout, and 3D model of the project.
 
 ---
 
